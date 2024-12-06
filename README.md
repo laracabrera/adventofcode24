@@ -1,6 +1,6 @@
-# AOC 2023
+# AOC 2024
 
-This is a template project for solving Advent Of Code (2023) in Haskell: fork it and you can start solving!
+This is a template project for solving Advent Of Code (2024) in Haskell: fork it and you can start solving!
 
 ## Setup
 
@@ -40,7 +40,7 @@ the code.
 
 This is a cabal-based project.
 
-`aoc2023.cabal` file already contains the default configuration that should work fine for you.
+`aoc2024.cabal` file already contains the default configuration that should work fine for you.
 
 You will notice it also contains some commented-out extensions and dependencies(packages). These are
 some common extensions and dependencies that we think you are likely to need so we put them there
