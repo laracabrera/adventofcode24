@@ -56,6 +56,8 @@ executable aoc2024
       base ^>=4.17.2.1
     -- -- Package `split`: Functions for splitting lists.
     , split ^>=0.2.4
+    -- -- Package `regex-posix`: Regular expressions
+    , regex-pcre
     -- -- Package `containers`: Brings maps, sets, trees, graphs, sequences.
     -- , containers ^>=0.7
     -- -- Package `vector`: Performant, fixed length arrays.
