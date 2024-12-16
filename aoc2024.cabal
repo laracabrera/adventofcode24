@@ -58,6 +58,7 @@ executable aoc2024
     , split ^>=0.2.4
     -- -- Package `regex-posix`: Regular expressions
     , regex-pcre
+    , matrix
     -- -- Package `containers`: Brings maps, sets, trees, graphs, sequences.
     -- , containers ^>=0.7
     -- -- Package `vector`: Performant, fixed length arrays.
